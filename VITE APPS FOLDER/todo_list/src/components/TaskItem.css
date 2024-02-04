@@ -1,0 +1,11 @@
+/* TaskItem.css */
+.completed {
+    
+  background-color: green;
+  }
+  
+  .incomplete {
+    background-color: red;
+    
+  }
+  
